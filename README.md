@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vin6819/LeetCode_24/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vin6819/LeetCode_24/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
