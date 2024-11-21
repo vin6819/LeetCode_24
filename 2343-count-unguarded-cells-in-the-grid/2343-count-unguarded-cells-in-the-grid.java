@@ -10,7 +10,7 @@ class Solution {
         for(int i[]: guards) {
             grid[i[0]][i[1]] = 3;
         }
-        System.out.println(res);
+        // System.out.println(res);
         for(int i[]: guards) {
             int x = i[0] + 1, y = i[1];
             while(x < m && grid[x][y] != 2 && grid[x][y] != 3) {
