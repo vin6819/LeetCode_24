@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vin6819/LeetCode_24/tree/master/0213-house-robber-ii) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/vin6819/LeetCode_24/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2089-maximum-matrix-sum](https://github.com/vin6819/LeetCode_24/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vin6819/LeetCode_24/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
+| [2089-maximum-matrix-sum](https://github.com/vin6819/LeetCode_24/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vin6819/LeetCode_24/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Brainteaser
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vin6819/LeetCode_24/tree/master/0055-jump-game) |
+| [2089-maximum-matrix-sum](https://github.com/vin6819/LeetCode_24/tree/master/2089-maximum-matrix-sum) |
 ## Combinatorics
 |  |
 | ------- |
