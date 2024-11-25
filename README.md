@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vin6819/LeetCode_24/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vin6819/LeetCode_24/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/vin6819/LeetCode_24/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vin6819/LeetCode_24/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/vin6819/LeetCode_24/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
 ## Tree
 |  |
