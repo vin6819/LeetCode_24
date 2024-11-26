@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/vin6819/LeetCode_24/tree/master/0801-is-graph-bipartite) |
+| [3189-find-champion-ii](https://github.com/vin6819/LeetCode_24/tree/master/3189-find-champion-ii) |
 ## String
 |  |
 | ------- |
