@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vin6819/LeetCode_24/tree/master/0213-house-robber-ii) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/vin6819/LeetCode_24/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2089-maximum-matrix-sum](https://github.com/vin6819/LeetCode_24/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sliding Window
 |  |
@@ -30,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vin6819/LeetCode_24/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
