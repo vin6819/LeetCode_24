@@ -17,7 +17,6 @@ class Solution {
                 continue;
             }
             ol /= 2;
-            // System.out.println(ol);
             map.put(i, map.get(i) - 1);
             if(map.getOrDefault(ol, -1) > 0) {
                 res = Math.max(i, res);
