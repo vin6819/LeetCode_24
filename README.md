@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vin6819/LeetCode_24/tree/master/0079-word-search) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/vin6819/LeetCode_24/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vin6819/LeetCode_24/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vin6819/LeetCode_24/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/vin6819/LeetCode_24/tree/master/2093-check-if-string-is-a-prefix-of-array) |
