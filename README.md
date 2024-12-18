@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/vin6819/LeetCode_24/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vin6819/LeetCode_24/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vin6819/LeetCode_24/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vin6819/LeetCode_24/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vin6819/LeetCode_24/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/vin6819/LeetCode_24/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vin6819/LeetCode_24/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/vin6819/LeetCode_24/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vin6819/LeetCode_24/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vin6819/LeetCode_24/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Tree
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vin6819/LeetCode_24/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vin6819/LeetCode_24/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
