@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0094-binary-tree-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
 | [0801-is-graph-bipartite](https://github.com/vin6819/LeetCode_24/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
@@ -145,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0094-binary-tree-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0094-binary-tree-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
 ## Greedy
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0094-binary-tree-inorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vin6819/LeetCode_24/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vin6819/LeetCode_24/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
