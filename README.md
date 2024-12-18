@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vin6819/LeetCode_24/tree/master/0213-house-robber-ii) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
+| [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/vin6819/LeetCode_24/tree/master/1284-four-divisors) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vin6819/LeetCode_24/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sliding Window
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/vin6819/LeetCode_24/tree/master/3594-identify-the-largest-outlier-in-an-array) |
