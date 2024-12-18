@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/vin6819/LeetCode_24/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vin6819/LeetCode_24/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/vin6819/LeetCode_24/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vin6819/LeetCode_24/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vin6819/LeetCode_24/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vin6819/LeetCode_24/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2232-adding-spaces-to-a-string](https://github.com/vin6819/LeetCode_24/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vin6819/LeetCode_24/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/vin6819/LeetCode_24/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vin6819/LeetCode_24/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Tree
 |  |
