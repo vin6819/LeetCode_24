@@ -111,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
 | [0801-is-graph-bipartite](https://github.com/vin6819/LeetCode_24/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/vin6819/LeetCode_24/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
@@ -147,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
 ## Greedy
 |  |
