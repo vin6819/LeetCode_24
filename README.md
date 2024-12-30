@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/vin6819/LeetCode_24/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/vin6819/LeetCode_24/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vin6819/LeetCode_24/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vin6819/LeetCode_24/tree/master/0032-longest-valid-parentheses) |
