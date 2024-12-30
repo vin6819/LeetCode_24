@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vin6819/LeetCode_24/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vin6819/LeetCode_24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/vin6819/LeetCode_24/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vin6819/LeetCode_24/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/vin6819/LeetCode_24/tree/master/0274-h-index) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vin6819/LeetCode_24/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0133-clone-graph](https://github.com/vin6819/LeetCode_24/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/vin6819/LeetCode_24/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vin6819/LeetCode_24/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vin6819/LeetCode_24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vin6819/LeetCode_24/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vin6819/LeetCode_24/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vin6819/LeetCode_24/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/vin6819/LeetCode_24/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/vin6819/LeetCode_24/tree/master/0093-restore-ip-addresses) |
+| [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
@@ -313,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vin6819/LeetCode_24/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vin6819/LeetCode_24/tree/master/0096-unique-binary-search-trees) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
