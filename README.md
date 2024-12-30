@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vin6819/LeetCode_24/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/vin6819/LeetCode_24/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/vin6819/LeetCode_24/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
 | [1284-four-divisors](https://github.com/vin6819/LeetCode_24/tree/master/1284-four-divisors) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vin6819/LeetCode_24/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/vin6819/LeetCode_24/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/vin6819/LeetCode_24/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vin6819/LeetCode_24/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/vin6819/LeetCode_24/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vin6819/LeetCode_24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vin6819/LeetCode_24/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vin6819/LeetCode_24/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/vin6819/LeetCode_24/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vin6819/LeetCode_24/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0144-binary-tree-preorder-traversal) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vin6819/LeetCode_24/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/vin6819/LeetCode_24/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vin6819/LeetCode_24/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vin6819/LeetCode_24/tree/master/0144-binary-tree-preorder-traversal) |
@@ -302,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vin6819/LeetCode_24/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/vin6819/LeetCode_24/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
