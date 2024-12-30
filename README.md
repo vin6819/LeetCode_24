@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vin6819/LeetCode_24/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/vin6819/LeetCode_24/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/vin6819/LeetCode_24/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vin6819/LeetCode_24/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vin6819/LeetCode_24/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vin6819/LeetCode_24/tree/master/0068-text-justification) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/vin6819/LeetCode_24/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vin6819/LeetCode_24/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vin6819/LeetCode_24/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vin6819/LeetCode_24/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/vin6819/LeetCode_24/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/vin6819/LeetCode_24/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/vin6819/LeetCode_24/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
