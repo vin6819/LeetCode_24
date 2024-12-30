@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vin6819/LeetCode_24/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vin6819/LeetCode_24/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0133-clone-graph](https://github.com/vin6819/LeetCode_24/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/vin6819/LeetCode_24/tree/master/0138-copy-list-with-random-pointer) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vin6819/LeetCode_24/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/vin6819/LeetCode_24/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/vin6819/LeetCode_24/tree/master/0138-copy-list-with-random-pointer) |
 ## Binary Search Tree
 |  |
 | ------- |
