@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vin6819/LeetCode_24/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vin6819/LeetCode_24/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/vin6819/LeetCode_24/tree/master/0274-h-index) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vin6819/LeetCode_24/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
