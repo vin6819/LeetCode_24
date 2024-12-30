@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vin6819/LeetCode_24/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/vin6819/LeetCode_24/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/vin6819/LeetCode_24/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vin6819/LeetCode_24/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vin6819/LeetCode_24/tree/master/0213-house-robber-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vin6819/LeetCode_24/tree/master/0780-max-chunks-to-make-sorted) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vin6819/LeetCode_24/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vin6819/LeetCode_24/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/vin6819/LeetCode_24/tree/master/2093-check-if-string-is-a-prefix-of-array) |
