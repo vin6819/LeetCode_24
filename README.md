@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vin6819/LeetCode_24/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vin6819/LeetCode_24/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/vin6819/LeetCode_24/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/vin6819/LeetCode_24/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vin6819/LeetCode_24/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/vin6819/LeetCode_24/tree/master/0072-edit-distance) |
