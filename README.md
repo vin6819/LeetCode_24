@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vin6819/LeetCode_24/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vin6819/LeetCode_24/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/vin6819/LeetCode_24/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/vin6819/LeetCode_24/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vin6819/LeetCode_24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vin6819/LeetCode_24/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/vin6819/LeetCode_24/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/vin6819/LeetCode_24/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vin6819/LeetCode_24/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/vin6819/LeetCode_24/tree/master/0091-decode-ways) |
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
