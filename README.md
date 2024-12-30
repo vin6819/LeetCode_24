@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vin6819/LeetCode_24/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vin6819/LeetCode_24/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vin6819/LeetCode_24/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/vin6819/LeetCode_24/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vin6819/LeetCode_24/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/vin6819/LeetCode_24/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/vin6819/LeetCode_24/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/vin6819/LeetCode_24/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vin6819/LeetCode_24/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vin6819/LeetCode_24/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/vin6819/LeetCode_24/tree/master/0044-wildcard-matching) |
