@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vin6819/LeetCode_24/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/vin6819/LeetCode_24/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
+| [0290-word-pattern](https://github.com/vin6819/LeetCode_24/tree/master/0290-word-pattern) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/vin6819/LeetCode_24/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/vin6819/LeetCode_24/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
