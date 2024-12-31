@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vin6819/LeetCode_24/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
 | [1063-best-sightseeing-pair](https://github.com/vin6819/LeetCode_24/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/vin6819/LeetCode_24/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
+| [0392-is-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vin6819/LeetCode_24/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vin6819/LeetCode_24/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vin6819/LeetCode_24/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vin6819/LeetCode_24/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0392-is-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vin6819/LeetCode_24/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/vin6819/LeetCode_24/tree/master/2093-check-if-string-is-a-prefix-of-array) |
