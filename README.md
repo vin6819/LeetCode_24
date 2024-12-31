@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vin6819/LeetCode_24/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vin6819/LeetCode_24/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/vin6819/LeetCode_24/tree/master/0278-first-bad-version) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sorting
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vin6819/LeetCode_24/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vin6819/LeetCode_24/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
