@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vin6819/LeetCode_24/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/vin6819/LeetCode_24/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/vin6819/LeetCode_24/tree/master/0263-ugly-number) |
 | [1284-four-divisors](https://github.com/vin6819/LeetCode_24/tree/master/1284-four-divisors) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vin6819/LeetCode_24/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
