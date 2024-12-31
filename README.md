@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vin6819/LeetCode_24/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vin6819/LeetCode_24/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/vin6819/LeetCode_24/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vin6819/LeetCode_24/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1284-four-divisors](https://github.com/vin6819/LeetCode_24/tree/master/1284-four-divisors) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vin6819/LeetCode_24/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/vin6819/LeetCode_24/tree/master/0089-gray-code) |
 | [0338-counting-bits](https://github.com/vin6819/LeetCode_24/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vin6819/LeetCode_24/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vin6819/LeetCode_24/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
 ## Matrix
 |  |
