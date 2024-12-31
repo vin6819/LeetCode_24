@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vin6819/LeetCode_24/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/vin6819/LeetCode_24/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vin6819/LeetCode_24/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/vin6819/LeetCode_24/tree/master/0412-fizz-buzz) |
 | [1284-four-divisors](https://github.com/vin6819/LeetCode_24/tree/master/1284-four-divisors) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vin6819/LeetCode_24/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vin6819/LeetCode_24/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/vin6819/LeetCode_24/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/vin6819/LeetCode_24/tree/master/0412-fizz-buzz) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/vin6819/LeetCode_24/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2232-adding-spaces-to-a-string](https://github.com/vin6819/LeetCode_24/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vin6819/LeetCode_24/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vin6819/LeetCode_24/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vin6819/LeetCode_24/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/vin6819/LeetCode_24/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vin6819/LeetCode_24/tree/master/1302-delete-characters-to-make-fancy-string) |
