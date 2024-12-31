@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vin6819/LeetCode_24/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/vin6819/LeetCode_24/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/vin6819/LeetCode_24/tree/master/0258-add-digits) |
 | [1284-four-divisors](https://github.com/vin6819/LeetCode_24/tree/master/1284-four-divisors) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vin6819/LeetCode_24/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vin6819/LeetCode_24/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vin6819/LeetCode_24/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/vin6819/LeetCode_24/tree/master/0258-add-digits) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/vin6819/LeetCode_24/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2232-adding-spaces-to-a-string](https://github.com/vin6819/LeetCode_24/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vin6819/LeetCode_24/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vin6819/LeetCode_24/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
