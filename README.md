@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vin6819/LeetCode_24/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vin6819/LeetCode_24/tree/master/0069-sqrtx) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sorting
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vin6819/LeetCode_24/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vin6819/LeetCode_24/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/vin6819/LeetCode_24/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/vin6819/LeetCode_24/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/vin6819/LeetCode_24/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
