@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vin6819/LeetCode_24/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vin6819/LeetCode_24/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vin6819/LeetCode_24/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/vin6819/LeetCode_24/tree/master/0461-hamming-distance) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
 ## Matrix
 |  |
