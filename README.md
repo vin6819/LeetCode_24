@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vin6819/LeetCode_24/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/vin6819/LeetCode_24/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/vin6819/LeetCode_24/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0349-intersection-of-two-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vin6819/LeetCode_24/tree/master/0780-max-chunks-to-make-sorted) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
 | [1063-best-sightseeing-pair](https://github.com/vin6819/LeetCode_24/tree/master/1063-best-sightseeing-pair) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vin6819/LeetCode_24/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vin6819/LeetCode_24/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/vin6819/LeetCode_24/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sorting
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vin6819/LeetCode_24/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/vin6819/LeetCode_24/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0349-intersection-of-two-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vin6819/LeetCode_24/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vin6819/LeetCode_24/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vin6819/LeetCode_24/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/vin6819/LeetCode_24/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vin6819/LeetCode_24/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vin6819/LeetCode_24/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/vin6819/LeetCode_24/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vin6819/LeetCode_24/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
