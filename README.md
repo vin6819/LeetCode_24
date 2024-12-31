@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vin6819/LeetCode_24/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/vin6819/LeetCode_24/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/vin6819/LeetCode_24/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vin6819/LeetCode_24/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vin6819/LeetCode_24/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/vin6819/LeetCode_24/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/vin6819/LeetCode_24/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vin6819/LeetCode_24/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/vin6819/LeetCode_24/tree/master/0089-gray-code) |
 | [0338-counting-bits](https://github.com/vin6819/LeetCode_24/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/vin6819/LeetCode_24/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
 ## Matrix
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/vin6819/LeetCode_24/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/vin6819/LeetCode_24/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/vin6819/LeetCode_24/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
