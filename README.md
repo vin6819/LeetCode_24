@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/vin6819/LeetCode_24/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vin6819/LeetCode_24/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vin6819/LeetCode_24/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/vin6819/LeetCode_24/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vin6819/LeetCode_24/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vin6819/LeetCode_24/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/vin6819/LeetCode_24/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vin6819/LeetCode_24/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/vin6819/LeetCode_24/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vin6819/LeetCode_24/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vin6819/LeetCode_24/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vin6819/LeetCode_24/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Tree
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vin6819/LeetCode_24/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vin6819/LeetCode_24/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
