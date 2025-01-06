@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vin6819/LeetCode_24/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/vin6819/LeetCode_24/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vin6819/LeetCode_24/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vin6819/LeetCode_24/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2089-maximum-matrix-sum](https://github.com/vin6819/LeetCode_24/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/vin6819/LeetCode_24/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vin6819/LeetCode_24/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vin6819/LeetCode_24/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vin6819/LeetCode_24/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vin6819/LeetCode_24/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vin6819/LeetCode_24/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/vin6819/LeetCode_24/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/vin6819/LeetCode_24/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vin6819/LeetCode_24/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -396,5 +398,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vin6819/LeetCode_24/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vin6819/LeetCode_24/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
