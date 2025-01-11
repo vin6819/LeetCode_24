@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vin6819/LeetCode_24/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vin6819/LeetCode_24/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vin6819/LeetCode_24/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/vin6819/LeetCode_24/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/vin6819/LeetCode_24/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/vin6819/LeetCode_24/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/vin6819/LeetCode_24/tree/master/0079-word-search) |
