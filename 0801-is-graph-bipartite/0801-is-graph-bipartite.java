@@ -1,33 +1,32 @@
 class Solution {
+    class Pair {
+        int vtx, dis;
+        Pair(int vtx, int dis) {
+            this.vtx = vtx;
+            this.dis = dis;
+        }
+    }
     public boolean isBipartite(int[][] graph) {
-        Queue<Integer> q = new LinkedList<>();
-        int v = graph.length;
-        int color[] = new int[v];
-        Arrays.fill(color, -1);
-        boolean visited[] = new boolean[v];
-        for (int i = 0; i < v; i++) {
-            if (visited[i]) {
+        Queue<Pair> q = new LinkedList<>();
+        Map<Integer, Integer> visited = new HashMap<>();
+        for(int vtx = 0; vtx < graph.length; vtx++) {
+            if(visited.containsKey(vtx)) {
                 continue;
             }
-            color[i] = 0;
-            q.offer(i);
-            while (!q.isEmpty()) {
-                int n = q.poll();
-                if (visited[n]) {
+            q.add(new Pair(vtx, 0));
+            while(!q.isEmpty()) {
+                Pair p = q.poll();
+                if(visited.containsKey(p.vtx)) {
+                    if(visited.get(p.vtx) != p.dis) {
+                        return false;
+                    };
                     continue;
                 }
-                visited[n] = true;
-                int nbrs[] = graph[n];
-                for (int nbr : nbrs) {
-                    if (color[nbr] == color[n]) {
-                        // System.out.println(color[n]  + " " + color[nbr]);
-                        return false;
+                visited.put(p.vtx, p.dis);
+                for(int nbr: graph[p.vtx]) {
+                    if(!visited.containsKey(nbr)) {
+                        q.add(new Pair(nbr, p.dis + 1));
                     }
-                    if(color[nbr] == -1) {
-                        color[nbr] = 1 - color[n];
-                    }
-                    if(!visited[nbr])
-                    q.offer(nbr);
                 }
             }
         }
