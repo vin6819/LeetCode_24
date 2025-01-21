@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/vin6819/LeetCode_24/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/vin6819/LeetCode_24/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vin6819/LeetCode_24/tree/master/0042-trapping-rain-water) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vin6819/LeetCode_24/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vin6819/LeetCode_24/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/vin6819/LeetCode_24/tree/master/0278-first-bad-version) |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vin6819/LeetCode_24/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
