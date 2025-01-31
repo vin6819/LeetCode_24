@@ -35,7 +35,7 @@ class Solution {
                 list.add(k);
             }
         }
-        System.out.println(list);
+        // System.out.println(list);
         int res[] = new int[list.size()];
         for (int i = 0; i < list.size(); i++) {
             res[i] = list.get(i);
