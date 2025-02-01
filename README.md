@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/vin6819/LeetCode_24/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vin6819/LeetCode_24/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/vin6819/LeetCode_24/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vin6819/LeetCode_24/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vin6819/LeetCode_24/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/vin6819/LeetCode_24/tree/master/3594-identify-the-largest-outlier-in-an-array) |
