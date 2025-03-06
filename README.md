@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/vin6819/LeetCode_24/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/vin6819/LeetCode_24/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/vin6819/LeetCode_24/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/vin6819/LeetCode_24/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/vin6819/LeetCode_24/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0349-intersection-of-two-arrays) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vin6819/LeetCode_24/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/vin6819/LeetCode_24/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/vin6819/LeetCode_24/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/vin6819/LeetCode_24/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/vin6819/LeetCode_24/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/vin6819/LeetCode_24/tree/master/0290-word-pattern) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/vin6819/LeetCode_24/tree/master/0208-implement-trie-prefix-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/vin6819/LeetCode_24/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
@@ -482,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0004-median-of-two-sorted-arrays) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/vin6819/LeetCode_24/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
