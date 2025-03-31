@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/vin6819/LeetCode_24/tree/master/0780-max-chunks-to-make-sorted) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
 | [1063-best-sightseeing-pair](https://github.com/vin6819/LeetCode_24/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/vin6819/LeetCode_24/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/vin6819/LeetCode_24/tree/master/1284-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/vin6819/LeetCode_24/tree/master/1396-count-servers-that-communicate) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vin6819/LeetCode_24/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vin6819/LeetCode_24/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
+| [1073-number-of-enclaves](https://github.com/vin6819/LeetCode_24/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/vin6819/LeetCode_24/tree/master/1396-count-servers-that-communicate) |
 | [2089-maximum-matrix-sum](https://github.com/vin6819/LeetCode_24/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vin6819/LeetCode_24/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/vin6819/LeetCode_24/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vin6819/LeetCode_24/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/vin6819/LeetCode_24/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/vin6819/LeetCode_24/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/vin6819/LeetCode_24/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vin6819/LeetCode_24/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vin6819/LeetCode_24/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vin6819/LeetCode_24/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/vin6819/LeetCode_24/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/vin6819/LeetCode_24/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/vin6819/LeetCode_24/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vin6819/LeetCode_24/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/vin6819/LeetCode_24/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/vin6819/LeetCode_24/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/vin6819/LeetCode_24/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/vin6819/LeetCode_24/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
