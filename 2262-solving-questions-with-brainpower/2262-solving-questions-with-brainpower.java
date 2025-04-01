@@ -10,7 +10,7 @@ class Solution {
         return dp[i];
     }
     public long mostPoints(int[][] questions) {
-        long dp[] = new long[questions.length + 1];
+        long dp[] = new long[questions.length];
         Arrays.fill(dp, -1);
         long res = helper(questions, 0, dp);
         return res;
