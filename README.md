@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vin6819/LeetCode_24/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
+| [1008-binary-tree-cameras](https://github.com/vin6819/LeetCode_24/tree/master/1008-binary-tree-cameras) |
 | [1063-best-sightseeing-pair](https://github.com/vin6819/LeetCode_24/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vin6819/LeetCode_24/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/vin6819/LeetCode_24/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vin6819/LeetCode_24/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/vin6819/LeetCode_24/tree/master/0801-is-graph-bipartite) |
+| [1008-binary-tree-cameras](https://github.com/vin6819/LeetCode_24/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/vin6819/LeetCode_24/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/vin6819/LeetCode_24/tree/master/1396-count-servers-that-communicate) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vin6819/LeetCode_24/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/vin6819/LeetCode_24/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vin6819/LeetCode_24/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1008-binary-tree-cameras](https://github.com/vin6819/LeetCode_24/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vin6819/LeetCode_24/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/vin6819/LeetCode_24/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vin6819/LeetCode_24/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1008-binary-tree-cameras](https://github.com/vin6819/LeetCode_24/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Greedy
