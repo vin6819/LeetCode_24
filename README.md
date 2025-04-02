@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vin6819/LeetCode_24/tree/master/0414-third-maximum-number) |
 | [0648-replace-words](https://github.com/vin6819/LeetCode_24/tree/master/0648-replace-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vin6819/LeetCode_24/tree/master/0780-max-chunks-to-make-sorted) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/vin6819/LeetCode_24/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/vin6819/LeetCode_24/tree/master/1022-unique-paths-iii) |
 | [1063-best-sightseeing-pair](https://github.com/vin6819/LeetCode_24/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/vin6819/LeetCode_24/tree/master/1073-number-of-enclaves) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vin6819/LeetCode_24/tree/master/0409-longest-palindrome) |
 | [0508-most-frequent-subtree-sum](https://github.com/vin6819/LeetCode_24/tree/master/0508-most-frequent-subtree-sum) |
 | [0648-replace-words](https://github.com/vin6819/LeetCode_24/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/vin6819/LeetCode_24/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/vin6819/LeetCode_24/tree/master/1502-construct-k-palindrome-strings) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/vin6819/LeetCode_24/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vin6819/LeetCode_24/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vin6819/LeetCode_24/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vin6819/LeetCode_24/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
