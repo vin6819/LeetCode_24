@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/vin6819/LeetCode_24/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vin6819/LeetCode_24/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/vin6819/LeetCode_24/tree/master/0801-is-graph-bipartite) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/vin6819/LeetCode_24/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/vin6819/LeetCode_24/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vin6819/LeetCode_24/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/vin6819/LeetCode_24/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vin6819/LeetCode_24/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vin6819/LeetCode_24/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/vin6819/LeetCode_24/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vin6819/LeetCode_24/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vin6819/LeetCode_24/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Greedy
 |  |
