@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vin6819/LeetCode_24/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vin6819/LeetCode_24/tree/master/0415-add-strings) |
 | [1284-four-divisors](https://github.com/vin6819/LeetCode_24/tree/master/1284-four-divisors) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vin6819/LeetCode_24/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/vin6819/LeetCode_24/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vin6819/LeetCode_24/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
