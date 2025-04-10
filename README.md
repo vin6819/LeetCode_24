@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/vin6819/LeetCode_24/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/vin6819/LeetCode_24/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/vin6819/LeetCode_24/tree/master/0274-h-index) |
+| [0312-burst-balloons](https://github.com/vin6819/LeetCode_24/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vin6819/LeetCode_24/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vin6819/LeetCode_24/tree/master/0414-third-maximum-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vin6819/LeetCode_24/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vin6819/LeetCode_24/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vin6819/LeetCode_24/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/vin6819/LeetCode_24/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vin6819/LeetCode_24/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/vin6819/LeetCode_24/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/vin6819/LeetCode_24/tree/master/0338-counting-bits) |
