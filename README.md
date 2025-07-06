@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vin6819/LeetCode_24/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vin6819/LeetCode_24/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vin6819/LeetCode_24/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vin6819/LeetCode_24/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2089-maximum-matrix-sum](https://github.com/vin6819/LeetCode_24/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/vin6819/LeetCode_24/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/vin6819/LeetCode_24/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vin6819/LeetCode_24/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/vin6819/LeetCode_24/tree/master/1502-construct-k-palindrome-strings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vin6819/LeetCode_24/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vin6819/LeetCode_24/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vin6819/LeetCode_24/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vin6819/LeetCode_24/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vin6819/LeetCode_24/tree/master/0208-implement-trie-prefix-tree) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vin6819/LeetCode_24/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
