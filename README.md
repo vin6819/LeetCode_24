@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vin6819/LeetCode_24/tree/master/0415-add-strings) |
 | [0583-delete-operation-for-two-strings](https://github.com/vin6819/LeetCode_24/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/vin6819/LeetCode_24/tree/master/0648-replace-words) |
+| [0796-rotate-string](https://github.com/vin6819/LeetCode_24/tree/master/0796-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/vin6819/LeetCode_24/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vin6819/LeetCode_24/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/vin6819/LeetCode_24/tree/master/1502-construct-k-palindrome-strings) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/vin6819/LeetCode_24/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/vin6819/LeetCode_24/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vin6819/LeetCode_24/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/vin6819/LeetCode_24/tree/master/2292-counting-words-with-a-given-prefix) |
